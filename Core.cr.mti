@@ -1,0 +1,384 @@
+D:/Projects/NISC/Final_ri5cy/ri5cy_sim/top_tb.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/top_tb.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/id_stage.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/id_stage.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package id_stage_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_id_stage
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/id_stage.sv(1199): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/id_stage.sv(1203): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/id_stage.sv(37): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_id_stage
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/ex_stage.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/ex_stage.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package ex_stage_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_ex_stage
+
+Top level modules:
+	riscv_ex_stage
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_buffer.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_buffer.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_fetch_fifo
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_buffer.sv(262): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_buffer.sv(26): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+-- Compiling module riscv_prefetch_buffer
+
+Top level modules:
+	riscv_prefetch_buffer
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/mult.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/mult.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package mult_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_mult
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/mult.sv(294): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/mult.sv(300): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/mult.sv(306): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_mult
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/if_stage.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/if_stage.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package if_stage_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_if_stage
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/if_stage.sv(384): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/if_stage.sv(389): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/if_stage.sv(31): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_if_stage
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/alu.sv {1 {vlog -work work -sv {D:\Projects\NISC\Final_ri5cy\ri5cy_sim\alu.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_alu
+-- Importing package riscv_defines
+-- Compiling module alu_ff
+-- Compiling module alu_popcnt
+
+Top level modules:
+	riscv_alu
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/compressed_decoder.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/compressed_decoder.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package compressed_decoder_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_compressed_decoder
+
+Top level modules:
+	riscv_compressed_decoder
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/top.sv {1 {vlog -work work -sv {D:\Projects\NISC\Final_ri5cy\ri5cy_sim\top.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/load_store_unit.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/load_store_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_load_store_unit
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/load_store_unit.sv(477): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/load_store_unit.sv(481): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/load_store_unit.sv(484): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_load_store_unit
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/exc_controller.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/exc_controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package exc_controller_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_exc_controller
+
+Top level modules:
+	riscv_exc_controller
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_tracer_defines.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_tracer_defines.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package riscv_tracer_defines
+-- Importing package riscv_defines
+
+Top level modules:
+	--none--
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_simchecker.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_simchecker.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package riscv_simchecker_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_simchecker
+
+Top level modules:
+	riscv_simchecker
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_defines.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_defines.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package riscv_defines
+
+Top level modules:
+	--none--
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/register_file.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/register_file.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_register_file
+
+Top level modules:
+	riscv_register_file
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/alu_div.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/alu_div.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_alu_div
+
+Top level modules:
+	riscv_alu_div
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/debug_unit.sv {2 {vlog -work work -sv {D:\Projects\NISC\Final_ri5cy\ri5cy_sim\debug_unit.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package debug_unit_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_debug_unit
+** Warning: D:\Projects\NISC\Final_ri5cy\ri5cy_sim\debug_unit.sv(530): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:\Projects\NISC\Final_ri5cy\ri5cy_sim\debug_unit.sv(535): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:\Projects\NISC\Final_ri5cy\ri5cy_sim\debug_unit.sv(25): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_debug_unit
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/hwloop_regs.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/hwloop_regs.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_hwloop_regs
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/hwloop_regs.sv(133): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/hwloop_regs.sv(25): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_hwloop_regs
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_config.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_config.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/controller.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package controller_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_controller
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/controller.sv(594): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/controller.sv(29): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+
+Top level modules:
+	riscv_controller
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/hwloop_controller.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/hwloop_controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_hwloop_controller
+
+Top level modules:
+	riscv_hwloop_controller
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/data_mem.v {1 {vlog -work work D:/Projects/NISC/Final_ri5cy/ri5cy_sim/data_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/instruction_mem.v {1 {vlog -work work D:/Projects/NISC/Final_ri5cy/ri5cy_sim/instruction_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instruction_mem
+
+Top level modules:
+	instruction_mem
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_L0_buffer.sv {2 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_L0_buffer.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_prefetch_L0_buffer
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_L0_buffer.sv(571): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_L0_buffer.sv(575): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+** Warning: D:/Projects/NISC/Final_ri5cy/ri5cy_sim/prefetch_L0_buffer.sv(577): (vlog-2186) SystemVerilog testbench feature
+
+(randomization, coverage or assertion) detected in the design.
+
+These features are only supported in Questasim.
+
+-- Compiling module prefetch_L0_buffer_L0
+
+Top level modules:
+	riscv_prefetch_L0_buffer
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/cs_registers.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/cs_registers.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package cs_registers_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_cs_registers
+
+Top level modules:
+	riscv_cs_registers
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/cluster_clock_gating.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/cluster_clock_gating.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cluster_clock_gating
+
+Top level modules:
+	cluster_clock_gating
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/decoder.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/decoder.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package decoder_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_decoder
+
+Top level modules:
+	riscv_decoder
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_tracer.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_tracer.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package riscv_tracer_sv_unit
+-- Importing package riscv_defines
+-- Importing package riscv_tracer_defines
+-- Compiling module riscv_tracer
+
+Top level modules:
+	riscv_tracer
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_core.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/riscv_core.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling package riscv_core_sv_unit
+-- Importing package riscv_defines
+-- Compiling module riscv_core
+
+Top level modules:
+	riscv_core
+
+} {} {}} D:/Projects/NISC/Final_ri5cy/ri5cy_sim/register_file_ff.sv {1 {vlog -work work -sv D:/Projects/NISC/Final_ri5cy/ri5cy_sim/register_file_ff.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module riscv_register_file
+
+Top level modules:
+	riscv_register_file
+
+} {} {}}
